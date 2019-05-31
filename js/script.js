@@ -1,13 +1,17 @@
-var hypotenuse = parseInt(prompt("Enter the hypotenuse side of your triangle"));
-var opposite = parseInt(prompt("Enter the opposite side of your triangle"));
-var adjacent = parseInt(prompt("Enter the adjasdent side of your triangle"));
+function result() {
 
-if (hypotenuse === opposite && opposite === hypotenuse && hypotenuse === adjacent) {
-  alert("Equilateral");
-} else if (hypotenuse === opposite || hypotenuse === adjacent || opposite === adjacent) {
-  alert("Isosceles");
-} else if ((hypotenuse + opposite) <= adjacent || (hypotenuse + adjacent) <= opposite || (opposite + adjacent) <= hypotenuse) {
-  alert("Not a definite triangle");
-} else {
-  alert("Scalene");
+  var hypotenuse = document.getElementById('hypotenuse').value;
+  var adjascent = document.getElementById('adjascent').value;
+  var opposite = document.getElementById('opposite').value;
+
+  if (hypotenuse === opposite && opposite === hypotenuse && hypotenuse === adjascent) {
+    alert("Equilateral");
+  } else if (hypotenuse === opposite || hypotenuse === adjascent || opposite === adjascent) {
+    alert("Isosceles");
+  } else if ((hypotenuse + opposite) <= adjascent || (hypotenuse + adjascent) <= opposite || (opposite + adjascent) <= hypotenuse) {
+    alert("Not a definite triangle");
+  } else {
+    alert("Scalene");
+  }
+
 }
