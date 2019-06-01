@@ -5,3 +5,18 @@ body {
 label {
   color: #fff;
 }
+
+.jumbotron {
+  background-color: none !important;
+  color: #fff;
+  text-align: center;
+  font-family: 'Sniglet', cursive;
+}
+
+h1 {
+  font-size: 4em !important;
+}
+
+label {
+  font-family: 'Handlee', cursive;
+}
