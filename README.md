@@ -5,7 +5,7 @@
 Triangle tracker is an app that detects the type of a triangle when a user keys in the values of the three sides of the triangle. Whether the triangle is an equilateral, scalene, isosceles or not a triangle at all.
 
 ##BDD
-The app is tasked to enable the user know the identity of their triangle. This is achieved by users inputting the values of the three sides of their triangle, ie. hypotenuse, opposite and adjacent.
+The app is tasked to enable the user know the identity of their triangle. This is achieved by users inputting the values of the three sides of their triangle, ie. hypotenuse, opposite and adjacent, submitting and waiting for results
 
 ## Setup/Installation Requirements
 * Open your terminal
