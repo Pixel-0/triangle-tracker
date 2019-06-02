@@ -17,3 +17,7 @@ label, p{
 h1 {
   font-size: 4em !important;
 }
+
+p {
+  font-size: 1.25em;
+}
