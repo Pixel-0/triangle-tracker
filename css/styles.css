@@ -20,3 +20,7 @@ h1 {
 label {
   font-family: 'Handlee', cursive;
 }
+
+#answer {
+  color: #fff;
+}
