@@ -1,10 +1,10 @@
 # Triangle Tracker
 
-#### By **{Sarah Munini}**
+#### By **{Sara Munini}**
 ## Description
 Triangle tracker is an app that detects the type of a triangle when a user keys in the values of the three sides of the triangle. Whether the triangle is an equilateral, scalene, isosceles or not a triangle at all.
 
-##BDD
+### BDD
 The app is tasked to enable the user know the identity of their triangle. This is achieved by users inputting the values of the three sides of their triangle, ie. hypotenuse, opposite and adjacent, submitting and waiting for results
 
 ## Setup/Installation Requirements
@@ -22,7 +22,6 @@ The app is tasked to enable the user know the identity of their triangle. This i
 * Bootstrap
 * Javascript
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+For any user support, contact saramunini11@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2019} **{Sara Munini}**
