@@ -2,18 +2,21 @@
 
 #### By **{Sarah Munini}**
 ## Description
-Triangle tracker is an app that detects the type of a triangle when a user keys in the values of the three sides of the triangle. (Equilateral, scalene, isosceles or not a triangle at all.)
+Triangle tracker is an app that detects the type of a triangle when a user keys in the values of the three sides of the triangle. Whether the triangle is an equilateral, scalene, isosceles or not a triangle at all.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+* Open your terminal
+* initialize git (git init)
+* git clone https://github.com/Pixel-0/triangle-tracker.git
+* cd triangle-tracker
+* open folder in your preferred IDE
+* proceed to open index.html file using a browser of your choice
+* The application will prompt you enter values of the three sides of a triangle and after submission you'll get an alert notifying you the type of your triangle.
+
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+* html
+* css
+* Bootstrap
+* Javascript
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
