@@ -2,8 +2,9 @@ body {
   background-image: url("https://wallpapercave.com/wp/wp4022735.jpg");
 }
 
-label {
+label, p{
   color: #fff;
+  font-family: 'Handlee', cursive;
 }
 
 .jumbotron {
@@ -15,12 +16,4 @@ label {
 
 h1 {
   font-size: 4em !important;
-}
-
-label {
-  font-family: 'Handlee', cursive;
-}
-
-#answer {
-  color: #fff;
 }

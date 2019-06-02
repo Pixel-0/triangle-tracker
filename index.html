@@ -16,24 +16,33 @@
       <h1>Get your MATH on!!</h1>
     </div>
 
+<div class="row">
+  <div class="col-lg-6">
+    <p>Enter the dimensions of your triangle to determine it's type.</p>
+    <form>
+      <div class="form-group col-lg-6">
+        <label>Enter opposite side</label>
+        <input type="text" class="form-control" id="opposite" placeholder="opposite" autocomplete="off">
+      </div>
+      <div class="form-group col-lg-6">
+        <label>Enter adjacent side</label>
+        <input type="text" class="form-control" id="adjacent" placeholder="adjascent" autocomplete="off">
+      </div>
+      <div class="form-group col-lg-6">
+        <label>Enter hypotenuse side</label>
+        <input type="text" class="form-control" id="hypotenuse" placeholder="hypotenuse" autocomplete="off">
+      </div>
 
-      <form>
-        <div class="form-group col-lg-4">
-          <label>Enter opposite side</label>
-          <input type="text" class="form-control" id="opposite" placeholder="opposite" autocomplete="off">
-        </div>
-        <div class="form-group col-lg-4">
-          <label>Enter adjacent side</label>
-          <input type="text" class="form-control" id="adjacent" placeholder="adjascent" autocomplete="off">
-        </div>
-        <div class="form-group col-lg-4">
-          <label>Enter hypotenuse side</label>
-          <input type="text" class="form-control" id="hypotenuse" placeholder="hypotenuse" autocomplete="off">
-        </div>
+      <button type="submit" class="btn btn-primary btn-dark" value="submit" onclick="tracker()">Submit</button>
 
-        <button type="submit" class="btn btn-primary btn-dark" value="submit" onclick="tracker()">Submit</button>
+    </form>
+  </div>
+  <div class="col-lg-6">
+    <p>A triangle is a polygon with three edges and three vertices.</p>
 
-      </form>
+  </div>
+</div>
+
 
 
 
