@@ -16,10 +16,3 @@
    }
 
  }
-
- function reset() {
-   var hypotenuse = document.getElementById('hypotenuse').value;
-   var adjacent = document.getElementById('adjacent').value;
-   var opposite = document.getElementById('opposite').value;
-
- }
