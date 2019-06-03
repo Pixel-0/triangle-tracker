@@ -30,3 +30,12 @@ p, ul{
 .btn {
   background-color: black;
 }
+
+a {
+  color: #fff;
+  font-weight: bold;
+}
+
+a:hover {
+  color: black;
+}
