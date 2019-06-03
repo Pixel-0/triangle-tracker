@@ -11,7 +11,7 @@ Triangle tracker is an app that detects the type of a triangle when a user keys 
 The app is tasked to enable the user know the identity of their triangle. This is achieved by users inputting the values of the three sides of their triangle, ie. hypotenuse, opposite and adjacent, submitting and waiting for results
 |Command                     |                                          Description                                     |
 
-| --------------------    | -------------------------------------------------------------------------------------- |
+| :--------------------    | :--------------------------------------------------------------------------------------: |
 
 | Enter the hypotenuse side  |            Type in the length of the hypotenuse                                          |
 
