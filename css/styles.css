@@ -39,3 +39,7 @@ a {
 a:hover {
   color: black;
 }
+
+.copyright, .contact {
+  text-align: center;
+}
