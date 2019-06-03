@@ -2,7 +2,7 @@ body {
   background-image: url("https://wallpapercave.com/wp/wp4022735.jpg");
 }
 
-label, p{
+label, p, ul {
   color: #fff;
   font-family: 'Handlee', cursive;
 }
@@ -14,11 +14,16 @@ label, p{
   font-family: 'Sniglet', cursive;
 }
 
+h3 {
+  font-family: 'Sniglet', cursive;
+  color: #fff;
+}
+
 h1 {
   font-size: 4em !important;
 }
 
-p {
+p, ul{
   font-size: 1.25em;
 }
 
