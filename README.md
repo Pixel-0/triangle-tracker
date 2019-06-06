@@ -15,7 +15,7 @@ The app is tasked to enable the user know the identity of their triangle. This i
 | Enter the hypotenuse side | Type in the length of the hypotenuse |
 | Enter the adjacent side | Type in the length of the adjacent side |
 | Enter the opposite side | Type in the length of the opposite side |
-| Click the submit button | The application will run your digits then according to hoe you entered them |
+| Click the submit button | The application will run your digits then according to how you entered them |
 | Result | An alert pop-up will inform you the type triangle your lengths make |
 
 ## Setup/Installation Requirements
